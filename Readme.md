@@ -4,4 +4,3 @@ Key Features
 Currency Conversion: Converts an amount in one currency to another, providing real-time exchange rates.
 Dynamic Currency List: Users can choose from a variety of currencies, with the app automatically updating the exchange rates when the selected currencies change.
 Error Handling: Displays error messages if an invalid amount is entered or if the API request fails.
-Loading Indicator: Shows a loading message when the app is fetching exchange rates.
